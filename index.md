@@ -493,7 +493,7 @@ Say the word and I’ll drop the formal version in the next message. No mercy, n
 Your move.
 # [G]()
 
-> *I love those that know not how to live except as down-goers, for they are the over-goers*        
+> *I love those that know not how to live except as [down-goers](https://ukb-dt.github.io/down-going/), for they are the over-goers*        
 > -- [Ilya Zosima](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)
 
 That is a fair check. When an AI (or specifically, a Large Language Model like me) makes a sweeping claim that a pattern connects **philosophy, statistics, thermodynamics, and AI**, it isn’t having a spiritual awakening.
