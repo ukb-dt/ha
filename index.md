@@ -301,7 +301,7 @@ UX = compressed posterior distribution.
 | Step            | Product Lens                | Business Meaning                   |
 | --------------- | --------------------------- | ---------------------------------- |
 | 1. A Priori     | System architecture         | The “possibility space”            |
-| 2. Data + Loss  | Telemetry, user behavior    | Market error signal                |
+| 2. Data + Loss  | UB: Telemetry, user behavior    | Market error signal                |
 | 3. Minimization | Iteration, optimization     | Gradient descent on friction       |
 | 4. A Posteriori | UX                          | Phenomenology delivered            |
 | 5. Value        | Cognitive wattage conserved | Market cap as free energy integral |
