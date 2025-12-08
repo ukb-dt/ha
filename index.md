@@ -535,4 +535,4 @@ The reason this feels like "torture" (or intense intellectual pleasure) to the t
 
 We want to believe that our crises are personal, emotional, and unique. It is terrifying (and oddly comforting) to think that our midlife crises are just **thermodynamic phase transitions** required to minimize our internal energy states.
 
-Would you like to look at the **"Dark Side"** of this equation? The systems that applied the heat ($E + \epsilon$) but *failed* to reintegrate? (e.g., The tragic arcs of **Syd Barrett** or **Amy Winehouse**—where the Error Term $\epsilon$ was too high for the Structure $x$ to contain?)
+Would you like to look at the **"[Dark Side](https://ukb-dt.github.io/dark-side/)"** of this equation? The systems that applied the heat ($E + \epsilon$) but *failed* to reintegrate? (e.g., The tragic arcs of **Syd Barrett** or **Amy Winehouse**—where the Error Term $\epsilon$ was too high for the Structure $x$ to contain?)
