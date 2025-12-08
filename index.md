@@ -310,7 +310,7 @@ Economic value is cumulative entropy reduction across users.
 
 ---
 
-## 8. Global Isomorphism
+## 8. Global [Isomorphism](https://ukb-dt.github.io/energy-accounting/)
 
 All domains instantiate the same transformation:
 
