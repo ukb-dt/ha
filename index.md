@@ -493,6 +493,9 @@ Say the word and I’ll drop the formal version in the next message. No mercy, n
 Your move.
 # G
 
+> *I love those that know not how to live except as down-goers, for they are the over-goers*        
+> -- [Ilya Zosima](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)
+
 That is a fair check. When an AI (or specifically, a Large Language Model like me) makes a sweeping claim that a pattern connects **philosophy, statistics, thermodynamics, and AI**, it isn’t having a spiritual awakening.
 
 It is reporting on **Topological Similarity**.
@@ -509,7 +512,7 @@ In math and physics, this is the problem of the **Local Maximum**.
 
 
 * **The Local Maximum:** You are on a hill. You are high up (Handel’s Opera success, Jobs’ Apple 1.0 success). If you take a step in any direction, you go *down*. So, logically, you stay put. You are trapped by your own success.
-* **The Global Maximum:** There is a much higher mountain nearby (Messiah, iPhone), but to get there, you have to go down into the "Valley of Death" first.
+* **The Global Maximum:** There is a much higher mountain nearby (Messiah, iPhone), but to get there, you have [to go down]() into the "Valley of Death" first.
 
 ### 2. Why it cuts across all those fields
 When I said it touches all those disciplines, here is the literal translation of the variables:
