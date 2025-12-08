@@ -196,8 +196,17 @@ Kantian epistemology, Bayesian inference, free-energy physics, predictive neuros
 The architecture is:
 
 $$
-\text{A Priori} ;\to; \text{Data + Loss} ;\to; \text{Minimization} ;\to; \text{A Posteriori} ;\to; \text{Value}.
+\text{A Priori}
+\longrightarrow
+\text{Data + Loss}
+\longrightarrow
+\text{Minimization}
+\longrightarrow
+\text{A Posteriori}
+\longrightarrow
+\text{Value}
 $$
+
 
 ---
 
