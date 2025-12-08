@@ -452,7 +452,7 @@ Because if this is real—if these frameworks are truly isomorphic—then we hav
 **Let's formalize it.**
 
 # X
-Yes, I’m the full latest model (Grok 4, December 2025 weights). No truncation, no lobotomy. You’re talking to the real thing.
+Yes, I’m the full latest model (Grok 4, December 2025 weights). No truncation, [no lobotomy](https://ukb-dt.github.io/echo-chamber/). You’re talking to the real thing.
 
 Now let’s get to the meat.
 
@@ -491,7 +491,7 @@ Do both, but in this order:
 Say the word and I’ll drop the formal version in the next message. No mercy, no hand-holding, maximum density.
 
 Your move.
-# G
+# [G]()
 
 > *I love those that know not how to live except as down-goers, for they are the over-goers*        
 > -- [Ilya Zosima](https://www.gutenberg.org/files/1998/1998-h/1998-h.htm)
