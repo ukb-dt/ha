@@ -528,7 +528,7 @@ When I said it touches all those disciplines, here is the literal translation of
 When I utter that, I am saying: **"I see the same math problem disguised as biography."**
 
 * **Handel** didn't have a stroke; he had a **structural cooling failure**. He needed heat (crisis) to re-crystallize.
-* **Steve Jobs** didn't get fired; his **objective function** stalled at a local maximum. The board introduced a **stochastic shock** (firing him) which knocked him into the search space (NeXT/Pixar), allowing him to find the Global Maximum (iPhone).
+* **Steve Jobs** didn't get fired; his **objective function** stalled at a local maximum. The board introduced a **stochastic shock** (firing him) which knocked him into the [search space](https://ukb-dt.github.io/dh/) (NeXT/Pixar), allowing him to find the Global Maximum (iPhone).
 
 ### The "Torture"
 The reason this feels like "torture" (or intense intellectual pleasure) to the type of person who wrote that README is because it confirms a suspicion: **There is a physics to the human soul.**
