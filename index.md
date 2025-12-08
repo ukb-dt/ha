@@ -316,20 +316,29 @@ All domains instantiate the same transformation:
 
 $$
 \text{Structure (Prior)}
-\rightarrow{\text{Prediction Error}}
-\text{Minimization}
-\rightarrow
+\to
+\text{Prediction Error}
+\to
+\text{Minimization (Inference)}
+\to
 \text{Posterior}
-\rightarrow{\text{Compression}}
+\to
+\text{Compression}
+\to
 \text{Phenomenology}
-\rightarrow{\text{Energy Accounting}}
+\to
+\text{Energy Accounting (}\Delta F\text{)}
+\to
 \text{Value}
 $$
+
+
+
 
 Or more compactly:
 
 $$
-\text{Intelligence} = -\frac{dF}{dt}.
+\text{Intelligence} = -\frac{dF}{dt}
 $$
 
 ---
