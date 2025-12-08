@@ -316,14 +316,14 @@ All domains instantiate the same transformation:
 
 $$
 \text{Structure (Prior)}
-;\xrightarrow{\text{Prediction Error}};
+\rightarrow{\text{Prediction Error}}
 \text{Minimization}
-;\xrightarrow{};
+\rightarrow
 \text{Posterior}
-;\xrightarrow{\text{Compression}};
+\rightarrow{\text{Compression}}
 \text{Phenomenology}
-;\xrightarrow{\text{Energy Accounting}};
-\text{Value}.
+\rightarrow{\text{Energy Accounting}}
+\text{Value}
 $$
 
 Or more compactly:
