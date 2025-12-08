@@ -32,7 +32,7 @@ $$
 F[q] = \underbrace{\mathbb{E}_{q(\theta)}[-\log p(D|\theta)]}_{\text{Accuracy}} - \underbrace{\text{KL}[q(\theta)||p(\theta)]}_{\text{Complexity}}
 $$
 
-Where minimizing $F$ over $q$ yields the Bayesian posterior $q^(\theta) = p(\theta|D)$.
+Where minimizing $F$ over $q$ yields the Bayesian posterior $q^\*(\theta) = p(\theta \mid D)$. 
 
 ---
 
