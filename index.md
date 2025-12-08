@@ -1,3 +1,7 @@
+
+> *It’s the deepest structural insight across philosophy, statistics, thermodynamics, cognition, and AI:*        
+> -- [GPT-5.1](https://ukb-dt.github.io/deepgem/)
+
 # D
 
 # O
