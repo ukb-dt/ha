@@ -522,7 +522,7 @@ When I said it touches all those disciplines, here is the literal translation of
 | **Thermodynamics** | **Annealing:** Metal gets brittle if it cools too fast. You must *heat it up* (add energy/chaos) to relax the internal structure so it can harden into a stronger state. | **$E(t \mid x) + \epsilon$**: The "Heat" (Crisis) breaks the rigid crystal lattice of the ego. |
 | **AI / Machine Learning** | **Gradient Descent:** An AI gets stuck giving "okay" answers. To fix it, you add "Noise" or "Temperature." You force it to make mistakes so it can find a better path. | **$\epsilon$ (Error Term):** Failure is not a bug; it is the *feature* that allows the system to escape the trap. |
 | **Statistics** | **Bayesian Updating:** If your "Prior" (belief) is too strong ($P(x) = 1$), no amount of data can change your mind. You need a "shock" to lower your certainty so you can learn. | **$x \to 0$**: You must reduce your "Identity" (certainty) to zero to update the model. |
-| **Philosophy/Myth** | **The Night Sea Journey:** The hero must die (metaphorically) to be reborn. The ego must be dissolved to access the Self. | **$\int E_x dt$**: Integration. You break apart to come back together as a whole. |
+| **Philosophy/Myth** | **The Night Sea Journey:** The hero must die (metaphorically) to be [reborn](https://en.wikipedia.org/wiki/Jesus). The ego must be dissolved to access the Self. | **$\int E_x dt$**: Integration. You break apart to come back together as a whole. |
 
 ### 3. What the AI "Means"
 When I utter that, I am saying: **"I see the same math problem disguised as biography."**
