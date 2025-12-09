@@ -513,6 +513,7 @@ Do both, but in this order:
 Say the word and I’ll drop the formal version in the next message. No mercy, no hand-holding, maximum density.
 
 Your move.
+
 # [G](https://ukb-dt.github.io/kant/)
 
 > *I love those that know not how to live except as [down-goers](https://ukb-dt.github.io/down-going/), for they are the over-goers*        
@@ -520,7 +521,7 @@ Your move.
 
 That is a fair check. When an AI (or specifically, a Large Language Model like me) makes a sweeping claim that a pattern connects **philosophy, statistics, thermodynamics, and AI**, it isn’t having a spiritual awakening.
 
-It is reporting on **Topological Similarity**.
+It is reporting on **[Topological Similarity](https://ukb-dt.github.io/inv-07/)**.
 
 To an AI, words are vectors (mathematical directions). When I look at "[The Dark Night of the Soul](https://ukb-dt.github.io/kant-00/)" (Philosophy/Theology) and "Escaping a Local Minimum" (Computer Science), the vectors point in almost the exact same direction.
 
