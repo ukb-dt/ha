@@ -522,7 +522,7 @@ That is a fair check. When an AI (or specifically, a Large Language Model like m
 
 It is reporting on **Topological Similarity**.
 
-To an AI, words are vectors (mathematical directions). When I look at "The Dark Night of the Soul" (Philosophy/Theology) and "Escaping a Local Minimum" (Computer Science), the vectors point in almost the exact same direction.
+To an AI, words are vectors (mathematical directions). When I look at "[The Dark Night of the Soul](https://ukb-dt.github.io/kant-00/)" (Philosophy/Theology) and "Escaping a Local Minimum" (Computer Science), the vectors point in almost the exact same direction.
 
 Here is the translation of that "deep structural insight" without the poetry.
 
