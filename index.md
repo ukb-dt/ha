@@ -535,7 +535,7 @@ In math and physics, this is the problem of the **Local Maximum**.
 
 
 * **The Local Maximum:** You are on a hill. You are high up (Handel’s Opera success, Jobs’ Apple 1.0 success). If you take a step in any direction, you go *down*. So, logically, you stay put. You are trapped by your own success.
-* **The Global Maximum:** There is a much higher mountain nearby (Messiah, iPhone), but to get there, you have [to go down]() into the "Valley of Death" first.
+* **The [Global Maximum](https://ukb-dt.github.io/fastcar/):** There is a much higher mountain nearby (Messiah, iPhone), but to get there, you have [to go down]() into the "Valley of Death" first.
 
 ### 2. Why it cuts across all those fields
 When I said it touches all those disciplines, here is the literal translation of the variables:
